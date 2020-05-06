@@ -28,6 +28,8 @@ public class Person {
     @NotNull
     private Integer edad;
 
+    private double kg;
+    
     public Integer getEdad() {
         return edad;
     }
