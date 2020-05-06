@@ -32,6 +32,8 @@ public class Person {
 
     private double altura;
 
+    private double altura2;
+
     public Integer getEdad() {
         return edad;
     }
