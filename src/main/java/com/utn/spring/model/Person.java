@@ -29,7 +29,9 @@ public class Person {
     private Integer edad;
 
     private double kg;
-    
+
+    private double altura;
+
     public Integer getEdad() {
         return edad;
     }
